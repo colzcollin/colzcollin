@@ -11,7 +11,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Systemd Developer
+├─▣ Systems Developer
 ├─▣ Data Architect
 ├─▣ Data Analyst
 |
